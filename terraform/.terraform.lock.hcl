@@ -5,7 +5,7 @@ provider "registry.terraform.io/azure/azapi" {
   version     = "1.15.0"
   constraints = "~> 1.5"
   hashes = [
-    "h1:pO/phGY+TxMEKQ+ffYj+vUIvG5A1tno/sZYDb/yyA/w=",
+    "h1:Y7ruMuPh8UJRTRl4rm+cdpGtmURx2taqiuqfYaH3o48=",
     "zh:0627a8bc77254debc25dc0c7b62e055138217c97b03221e593c3c56dc7550671",
     "zh:2fe045f07070ef75d0bec4b0595a74c14394daa838ddb964e2fd23cc98c40c34",
     "zh:343009f39c957883b2c06145a5954e524c70f93585f943f1ea3d28ef6995d0d0",
@@ -25,7 +25,7 @@ provider "registry.terraform.io/hashicorp/azurerm" {
   version     = "3.117.0"
   constraints = "~> 3.0"
   hashes = [
-    "h1:pAXy9cKU+bX1rvWog4YWeLbg7VFHqRTAFKbjayIXK1k=",
+    "h1:Ynfg+Iy7x6K8M6W1AhqXCe3wkoiqIQhROlca7C3KC3w=",
     "zh:2e25f47492366821a786762369f0e0921cc9452d64bfd5075f6fdfcf1a9c6d70",
     "zh:41eb34f2f7469bf3eb1019dfb0e7fc28256f809824016f4f8b9d691bf473b2ac",
     "zh:48bb9c87b3d928da1abc1d3db75453c9725de4674c612daf3800160cc7145d30",
@@ -45,7 +45,7 @@ provider "registry.terraform.io/hashicorp/random" {
   version     = "3.6.3"
   constraints = "~> 3.0"
   hashes = [
-    "h1:zG9uFP8l9u+yGZZvi5Te7PV62j50azpgwPunq2vTm1E=",
+    "h1:Fnaec9vA8sZ8BXVlN3Xn9Jz3zghSETIKg7ch8oXhxno=",
     "zh:04ceb65210251339f07cd4611885d242cd4d0c7306e86dda9785396807c00451",
     "zh:448f56199f3e99ff75d5c0afacae867ee795e4dfda6cb5f8e3b2a72ec3583dd8",
     "zh:4b4c11ccfba7319e901df2dac836b1ae8f12185e37249e8d870ee10bb87a13fe",
